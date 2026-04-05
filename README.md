@@ -26,12 +26,6 @@ For each problem, I include:
 * Time & Space Complexity
 * Clean and optimized code
 
-## 📈 Progress Tracker
-
-| Date       | Problem | Difficulty |
-| ---------- | ------- | ---------- |
-| 2026-04-05 | Two Sum | Easy       |
-
 ## 🔥 Platforms Used
 
 * LeetCode
